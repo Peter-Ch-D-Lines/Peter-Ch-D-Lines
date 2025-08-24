@@ -1,0 +1,5 @@
+---
+title: "Genesis Blish"
+date: 2025-08-24
+---
+
