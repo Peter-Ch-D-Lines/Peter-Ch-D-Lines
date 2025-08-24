@@ -3,4 +3,5 @@ title: "Genesis Blish"
 date: 2025-08-24
 ---
 
-?This is my first auto-publish note.?
+head -20 /var/www/html/public/index.html
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
