@@ -3,4 +3,4 @@ title: "Genesis Blish"
 date: 2025-08-24
 ---
 
-Jesus is the Lord
+?This is my first auto-publish note.?
